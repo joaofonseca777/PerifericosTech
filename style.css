@@ -47,10 +47,10 @@ nav {
 }
 .hero-image {
     width: 180%;
-    max-width: 1200px; /* Ajuste o tamanho máximo conforme necessário */
+    max-width: 1000px; 
     height: auto;
-    margin-bottom: 20px; /* Espaço entre a imagem e o texto */
-    border-radius: 10px; /* Opcional, para bordas arredondadas */
+    margin-bottom: 20px; 
+    border-radius: 10px; 
 }
 .hero-text h2 {
     font-size: 3rem;
