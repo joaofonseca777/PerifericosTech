@@ -1,4 +1,4 @@
-* {
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -38,7 +38,7 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     flex-direction: column;
     background-color: #f3f3f3;
@@ -63,7 +63,7 @@ nav {
 
 .btn {
     background-color: #3498db;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
